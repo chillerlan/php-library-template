@@ -3,7 +3,7 @@ Search.appendIndex(
                 {
             "fqsen": "\\chillerlan\\LibraryTemplate\\Example",
             "name": "Example",
-            "summary": "",
+            "summary": "An\u0020example\u0020class",
             "url": "classes/chillerlan-LibraryTemplate-Example.html"
         },                {
             "fqsen": "\\chillerlan\\LibraryTemplate\\Example\u003A\u003Ahello\u0028\u0029",
@@ -13,7 +13,7 @@ Search.appendIndex(
         },                {
             "fqsen": "\\chillerlan\\LibraryTemplateTest\\ExampleTest",
             "name": "ExampleTest",
-            "summary": "",
+            "summary": "An\u0020example\u0020unit\u0020test",
             "url": "classes/chillerlan-LibraryTemplateTest-ExampleTest.html"
         },                {
             "fqsen": "\\chillerlan\\LibraryTemplateTest\\ExampleTest\u003A\u003AtestInstance\u0028\u0029",
