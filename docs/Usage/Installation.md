@@ -12,7 +12,7 @@ Installation via [`composer.json`](https://getcomposer.org/doc/04-schema.md):
 ```json
 {
 	"require": {
-		"php": "^8.1",
+		"php": "^8.4",
 		"chillerlan/php-library-template": "dev-main"
 	}
 }

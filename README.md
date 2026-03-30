@@ -18,10 +18,10 @@ A template/boilerplate for PHP libraries.
 [license]: https://github.com/chillerlan/php-library-template/blob/main/LICENSE
 [gh-action-badge]: https://img.shields.io/github/actions/workflow/status/chillerlan/php-library-template/ci.yml?branch=main&logo=github&logoColor=fff
 [gh-action]: https://github.com/chillerlan/php-library-template/actions/workflows/ci.yml?query=branch%3Amain
-[coverage-badge]: https://img.shields.io/codecov/c/github/chillerlan/php-library-template.svg?logo=codecov&logoColor=fff
-[coverage]: https://codecov.io/github/chillerlan/php-library-template
-[codacy-badge]: https://img.shields.io/codacy/grade/917022229a8f432e9a15481ebf0c587c?logo=codacy&logoColor=fff
-[codacy]: https://app.codacy.com/gh/chillerlan/php-library-template/dashboard
+[coverage-badge]: https://img.shields.io/codecov/c/github/chillerlan/php-library-template/main?logo=codecov&logoColor=fff
+[coverage]: https://codecov.io/github/chillerlan/php-library-template/tree/main
+[codacy-badge]: https://img.shields.io/codacy/grade/917022229a8f432e9a15481ebf0c587c/main?logo=codacy&logoColor=fff
+[codacy]: https://app.codacy.com/gh/chillerlan/php-library-template/dashboard?branch=main
 [downloads-badge]: https://img.shields.io/packagist/dt/chillerlan/php-library-template.svg?logo=packagist&logoColor=fff
 [downloads]: https://packagist.org/packages/chillerlan/php-library-template/stats
 
@@ -43,7 +43,7 @@ A template/boilerplate for PHP libraries.
 
 ### Requirements
 
-- PHP 8.1+
+- PHP 8.4+
 
 
 ## Documentation

@@ -4,7 +4,7 @@ License
 
 .. code-block:: text
 
-    Copyright (c) 2024 smiley.
+    Copyright (c) 2026 smiley.
 
     This work is licensed under the Creative Commons
     Attribution 4.0 International (CC BY 4.0)
